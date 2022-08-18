@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="XXXXXXXXXXXXXXXX"
-ARG CADDYIndexPage="https://github.com/AYJCSGM/mikutap/archive/master.zip"
+ARG AUUID="6fe88c04-6bf6-409a-b1d2-8c9b899f43a2"
+ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page1/photoprowess.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
